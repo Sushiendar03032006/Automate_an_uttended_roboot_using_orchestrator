@@ -70,8 +70,6 @@ A process, published from UiPath Studio, is executed automatically without manua
 
 ![Screenshot 2025-05-18 120231](https://github.com/user-attachments/assets/66ed17a2-f6bd-48c4-97a8-ce826491b20d)
 
-![Screenshot 2025-05-18 120248](https://github.com/user-attachments/assets/2f469c66-ee50-4c4b-9bb0-03346319d38f)
-
 ![Screenshot 2025-05-18 120430](https://github.com/user-attachments/assets/c2253489-408c-467c-bdb3-904b37ae4a56)
 ## Result
 The automation process was successfully published, triggered, and executed as an unattended job using UiPath Orchestrator. This setup ensures automation can run without human presence at scheduled times.
